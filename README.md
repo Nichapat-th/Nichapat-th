@@ -14,10 +14,7 @@ Hello! I'm **Nichapat**, a passionate **UX/UI Designer** with a love for creatin
 - **Soft Skills:** Collaboration, Problem-solving, Empathy-driven design  
 
 ## 📫 Let’s Connect!
-- **Portfolio:** [YourWebsite.com] *(add link if available)*  
-- **Email:** hello@example.com *(replace with your email)*  
-- **LinkedIn:** [Your Name](https://linkedin.com/in/yourprofile)  
-- **Dribbble/Behance:** *(optional links)*  
+- **Email:** Nthammawit@gmail.com *(replace with your email)*  
 
 ## 🤝 Open to Collaborate
 - 👯 **Looking to collaborate on:** Open-source design projects, hackathons, or impactful digital products.  
