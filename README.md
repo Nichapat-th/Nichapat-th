@@ -1,16 +1,29 @@
-## Hi there 👋
+# Nichapat-th/Nichapat-th ✨
 
-<!--
-**Nichapat-th/Nichapat-th** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm **Nichapat**, a passionate **UX/UI Designer** with a love for creating intuitive and beautiful digital experiences. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 🌟 About Me
+- 🔭 **Currently working on:** UX/UI design projects (websites, apps, or design systems).  
+- 🌱 **Currently learning:** Advanced Product Design & User Research methodologies.  
+- 😄 **Pronouns:** She/Her  
+- ⚡ **Fun fact:** I live by the motto *"Smile, Chill, Travel"* – because life’s too short not to enjoy the journey!  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills & Tools
+- **Design:** Figma, Adobe XD, Sketch, Prototyping, Wireframing  
+- **Research:** User Interviews, Usability Testing, Personas  
+- **Soft Skills:** Collaboration, Problem-solving, Empathy-driven design  
+
+## 📫 Let’s Connect!
+- **Portfolio:** [YourWebsite.com] *(add link if available)*  
+- **Email:** hello@example.com *(replace with your email)*  
+- **LinkedIn:** [Your Name](https://linkedin.com/in/yourprofile)  
+- **Dribbble/Behance:** *(optional links)*  
+
+## 🤝 Open to Collaborate
+- 👯 **Looking to collaborate on:** Open-source design projects, hackathons, or impactful digital products.  
+- 🤔 **Looking for help with:** Motion design (After Effects) or front-end development (HTML/CSS).  
+
+💬 **Ask me about:** UX best practices, design systems, or my travel stories!  
+
+---  
+*“Design is not just what it looks like—it’s how it works.”* – Steve Jobs  
